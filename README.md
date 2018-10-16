@@ -1,1 +1,1 @@
-# installation-jenkins as a service and make it available through nginx.
+# Installation of Jenkins as a service (systemd) and make it available through nginx.
